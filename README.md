@@ -2,7 +2,7 @@
 ```
 $ npx create-react-app organo
 ```
-### Iniciando projeto
+### Rodando projeto
 ```
 $ npm start
 ```
