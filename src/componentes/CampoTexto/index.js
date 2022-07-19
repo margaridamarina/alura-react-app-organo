@@ -1,12 +1,12 @@
+import { useState } from 'react'
 import './CampoTexto.css'
 
 const CampoTexto = (props) => {
     
-    let valor = 'Guilherme Silveira'
+    const [valor, setValor] = useState('Guilherme Silveira')
 
     const aoDigitado = (evento) => {
-        valor = evento.target.value
-        console.log(valor)
+        setValor(evento.target.value)
     }
 
     return (
