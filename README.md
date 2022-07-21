@@ -6,3 +6,8 @@ $ npx create-react-app organo
 ```
 $ npm start
 ```
+### Projeto
+<h1 align="center">
+  <a href="https://alura-react-app-organo.vercel.app/">
+  <img src="./public//imagens/banner.png" alt="O banner principal da página do Organo"/> 
+</h1>
